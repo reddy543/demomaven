@@ -30,5 +30,6 @@ public class SampleTest {
     @AfterMethod
     public void testClose(){
             driver.close();
+            
     }
 }
